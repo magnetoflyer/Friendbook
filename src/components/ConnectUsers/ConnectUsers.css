@@ -1,0 +1,10 @@
+.connection {
+    margin-top: 70px;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.connect-button {
+    width: 98%;
+}

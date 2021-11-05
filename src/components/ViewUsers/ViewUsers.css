@@ -1,0 +1,19 @@
+.viewButton {
+    margin-top: 9px;
+    margin-right: 65px;
+}
+.list-item{
+    font: 1em sans-serif;
+    margin:5px;
+    border:20px;
+    border-color: aqua;
+    font-family: cursive;
+    background-color: rgb(15, 169, 180);
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.list-container{
+    border:2px;
+}

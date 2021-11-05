@@ -1,0 +1,16 @@
+.container {
+    margin: 20px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.person1-box {
+    margin-right: 20px;
+    width: 180%;
+}
+
+.person2-box {
+    margin-right: 20px;
+    width: 180%;
+}

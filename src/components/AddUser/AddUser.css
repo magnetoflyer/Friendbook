@@ -1,0 +1,8 @@
+.addUserContainer {
+    display: flex;
+    align-items: center;
+}
+
+.submitButton {
+    margin-left: 15px;
+}
